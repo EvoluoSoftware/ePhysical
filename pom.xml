@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>evoluo.software.physical</groupId>
+  <artifactId>ePhysical</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>ePhysical</name>
+  <description>Component for dealing with physical quantities (such as length, mass, time, electric current, etc.) of the International System of Measurements. It is also intended to provide the main constants of physics and also the properties of physics.</description>
+</project>
